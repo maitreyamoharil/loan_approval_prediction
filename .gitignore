@@ -1,0 +1,7 @@
+.venv
+.vscode
+app.py
+main.py
+templates/index.html
+templates/result.html
+__pycache__/
