@@ -1,0 +1,1 @@
+It's a basic model prediction logistic regression model project
